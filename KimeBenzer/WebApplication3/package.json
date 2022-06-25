@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "swagger-ui-express": "^4.4.0"
+  }
+}
